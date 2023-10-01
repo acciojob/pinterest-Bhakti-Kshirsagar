@@ -9,11 +9,13 @@
 img{
 	width:500px;
 	height:250px
-/* 	object-fit:cover;	 */
+	object-fit: cover;	
 }
 
 button{
 	padding:10px;
-	background-color:darkorange;
+	background-color:orangered;
 	border-radius:10px;
+	border:none;
+	color:white;
 }
